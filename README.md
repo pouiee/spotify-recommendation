@@ -1,0 +1,1 @@
+This is a Repository for my future Spotify project where I will be creating a recommendation app based on various data features and songs. This will be utilizing the Spotify API and Spotipy to get such information and analyzing data to make something that will help users find songs and artists they may like.
